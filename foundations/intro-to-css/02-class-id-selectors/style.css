@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(219, 161, 161);
+}
+
+#number2 {
+    color: rgb(63, 60, 235);
+    font-size: xx-large;
+    font-weight: 400;
+}
+
+.number3 {
+    font-size: x-large;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-weight: 900;
+    font-size: larger;
+}
